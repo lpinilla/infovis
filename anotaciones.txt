@@ -1,0 +1,45 @@
+To put the information to good use, we must find ways to explore, relate, and communicate the data meaningfully.
+The goal of visualization is to aid our understanding of data by leveraging the human visual system’s highly tuned ability to see patterns, spot trends, and identify outliers
+visual representations may also help engage more diverse audiences in exploration and analysis
+which questions to ask
+identify the appropriate data, and select effective visual encodings to map data values to graphical features such as position, size, shape, and color
+Time-series data—sets of values changing over time—
+compare a large number of time series simultaneously
+An index chart is an interactive line chart that shows percentage changes for a collection of time- series data based on a selected index point
+This type of graph (sometimes called a stream graph) depicts aggregate patterns and often supports drill-down into a subset of individual series.
+A stacked graph does not support negative numbers and is meaningless for data that should not be summed
+stacking may make it difficult to accurately interpret trends that lie atop other curve
+small multiples: showing each series in its own chart
+The horizon graph is a technique for increasing the data density of a time-series view while preserving resolution.
+more effective than the standard plot when the chart sizes get quite small.
+one important use of visualizations is exploratory data analysis: gaining insight into how data is distributed to inform data transformation and modeling decisions
+histogram, which shows the prevalence of values grouped into bins, and the box-and-whisker plot, which can convey statistical features
+lternative to the histogram is the stem-and-leaf plot.
+bins numbers according to the first significant digit, and then stacks the values within each bin by the second significant digit.
+The Q-Q plot compares two probability distributions by graphing their quantiles (http://en.wikipedia.org/wiki/Quantile) against each other. If the two are similar, the plotted values will lie roughly along the central diagonal. If the two are linearly related, values will again lie along a line, though with varying slope and intercept.
+use small multiples of scatter plots showing a set of pairwise relations among variables, thus creating the SPLOM (scatter plot matrix)
+brushing-and-linking—in which a selection of points on one graph highlights the same points on all the other graphs
+Parallel coordinates
+plot the data on parallel axes and then connect the corresponding points with lines
+Many maps are based upon a cartographic projection
+By placing stroked lines on top of a geographic map, a flow map can depict the movement of a quantity in space and (implicitly) in time
+Many of the greatest flow maps also involve subtle uses of distortion, as geography is modified to accommodate or highlight flows.
+A standard approach to communicating this data is to use a color encoding of the geographic area, resulting in a choropleth map
+One common error is to encode raw data values (such as population) rather than using normalized values to produce a density map
+alternative to the choropleth map is the graduated symbol map, which places symbols over an underlying map.
+A cartogram distorts the shape of geographic regions so that the area directly encodes a data variable
+Dorling cartogram, which represents each geographic region with a sized circle, placed so as to resemble the true geographic configuration.
+While some data is simply a flat collection of numbers, most can be organized into natural hierarchies.
+Even for data with no apparent hierarchy, statistical methods (e.g., k-means clustering) may be applied to organize data empirically
+If we take a two-dimensional blueprint of a tree, we have a popular choice for visualizing hierarchies: a node-link diagram.
+An alternative visualization scheme is the dendrogram (or cluster) algorithm, which places leaf
+nodes of the tree at the same level.
+Although the indented tree requires excessive vertical space and does not facilitate multiscale inferences, it does allow efficient interactive exploration of the tree to find a specific node.
+rather than drawing a link between parent and child in the hierarchy, nodes are drawn as solid areas (either arcs or bars), and their placement relative to adjacent nodes reveals their position in the hierarchy.
+The sunburst layout, shown in figure 4E, is equivalent to the icicle layout, but in polar coordinates.
+The enclosure diagram is also space filling, using containment rather than adjacency to represent the hierarchy
+hus node-link diagrams are also used to visualize networks, but the loss of hierarchy means a different algorithm is required to position nodes.
+An arc diagram, shown in figure 5B, uses a one-dimensional layout of nodes, with circular arcs to represent links.
+with a good ordering of nodes it is easy to identify cliques and bridges.
+matrix! Using color or saturation instead of text allows values associated with the links to be perceived more rapidly.
+In matrix views, however, line crossings are impossible, and with an effective sorting one quickly can spot clusters and bridges. Allowing interactive grouping and reordering of the matrix facilitates even deeper exploration of network structure.
