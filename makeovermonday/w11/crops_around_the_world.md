@@ -1,3 +1,3 @@
 ## Week 11
 
-<iframe seamless  frameborder="0" src="https://public.tableau.com/profile/lpinilla#!/vizhome/Cultivosalternativosalasoja/Dashboard1?publish=yes&amp;:origin=viz_share_link&amp;:showVizHome=no&amp;:embed=yes&amp;:display_count=yes" width="850" height="850"></iframe>    
+<iframe seamless  frameborder="0" src="https://public.tableau.com/views/Cultivosalternativosalasoja/Dashboard1?:language=es&:retry=yes&:display_count=y&:origin=viz_share_link&amp;:origin=viz_share_link&amp;:showVizHome=no&amp;:embed=yes&amp;:display_count=yes" width="850" height="850"></iframe>    
