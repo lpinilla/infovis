@@ -1,8 +1,4 @@
-# Make over Monday
-
-### Week 9 - [Women seats in parliament](https://github.com/lpinilla/infovis/blob/gh-pages/makeovermonday/w9/seats_held_by_woman_in_parliament.md)
-
-### Week 11 - [Crops around the world](https://github.com/lpinilla/infovis/blob/gh-pages/makeovermonday/w11/crops_around_the_world.md)
+# [Make over Monday](https://lpinilla.github.io/infovis/makeovermonday/)
 
 
 # Clases
