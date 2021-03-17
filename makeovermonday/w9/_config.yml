@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: Bienvenid@ a mis trabajos de Infovis!
+description: Estos trabajos son para la materia Visualización de la Información en el ITBA.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
