@@ -1,4 +1,4 @@
-# [Make over Monday](https://lpinilla.github.io/infovis/makeovermonday/)
+# [Make over Monday](https://lpinilla.github.io/infovis/makeovermonday/tree.html)
 
 
 # Clases
