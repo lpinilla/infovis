@@ -1,0 +1,1 @@
+cat log.har | grep -o "[IN]*CORRECT" | awk 'NR % 3 == 0' | grep -v "^\s*$" | sort | uniq -c | sort -bnr | sed -e 's/     //g' | sed -e 's/\n/,/g' | tr '[:\n*]' ',' | ts '%Y-%m-%d %H:%M,' | sed -e 's/,$/\n/g' >> historic
