@@ -1,4 +1,4 @@
-## Week 9
+## TP Datos Personales - Info de Duolingo
 
 #### [Atrás](https://lpinilla.github.io/infovis)
 
