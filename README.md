@@ -1,6 +1,6 @@
 # [Make over Monday](https://lpinilla.github.io/infovis/makeovermonday/tree.html)
 
-# [TP datos personales](https://lpinilla.github.io/infovis/makeovermonday/duolingo_info.html)
+# [TP datos personales](https://lpinilla.github.io/infovis/tp_datos_personales/duolingo_info.html)
 
 
 # Clases
