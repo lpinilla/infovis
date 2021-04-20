@@ -1,93 +1,90 @@
-2021-03-28 10:51:56,13XP,Verbs: Past
-2021-03-28 10:59:04,11XP,Verbs: Infinitive 1
-2021-03-28 17:41:44,11XP,Geography
-2021-03-28 17:45:36,12XP,Verbs: Past
-2021-03-28 21:17:24,12XP,Verbs: Infinitive 1
-daily,59
-2021-03-29 09:17:48,12XP,Geography
-2021-03-29 09:30:16,13XP,Verbs: Past
-2021-03-29 21:55:03,12XP,Verbs: Infinitive 1
-2021-03-29 21:59:40,12XP,Geography
-2021-03-29 22:04:30,12XP,Verbs: Past
-daily,61
-2021-03-30 09:58:54,14XP,Verbs: Infinitive 1
-2021-03-30 10:04:20,12XP,Geography
-2021-03-30 18:37:17,13XP,Verbs: Past
-2021-03-30 20:08:33,11XP,Geography
-2021-03-30 20:13:49,11XP,Verbs: Past
-daily,61
-2021-03-31 09:11:04,11XP,Verbs: Infinitive 1
-2021-03-31 09:16:58,15XP,Geography
-2021-03-31 12:41:53,11XP,Verbs: Past
-2021-03-31 21:19:46,11XP,Verbs: Infinitive 1
-2021-03-31 21:24:48,13XP,Geography
-daily,61
-2021-04-01 10:17:24,12XP,Verbs: Past 2
-2021-04-01 10:24:43,12XP,Food 2
-2021-04-01 19:02:47,13XP,Feelings
-2021-04-01 19:07:24,13XP,Geography
-2021-04-01 19:12:24,13XP,Verbs: Past
-daily,63
-2021-04-02 10:14:47,11XP,Feelings
-2021-04-02 10:20:52,11XP,Food 2
-2021-04-02 20:38:01,14XP,Verbs: Past 2
-2021-04-02 20:42:45,13XP,Verbs: Infinitive 1
-2021-04-02 20:48:00,12XP,Geography
-daily,61
-2021-04-03 11:19:10,15XP,Food 2
-2021-04-03 11:24:40,12XP,Feelings
-2021-04-03 16:35:06,14XP,Verbs: Past 2
-2021-04-03 16:41:38,12XP,Verbs: Past
-2021-04-03 20:56:14,11XP,Verbs: Infinitive 1
-daily,64
-2021-04-04 10:33:08,14XP,Geography
-2021-04-04 10:38:07,14XP,Food 2
-2021-04-04 20:26:18,12XP,Feelings
-2021-04-04 20:30:34,15XP,Verbs: Past 2
-2021-04-04 20:34:57,13XP,Verbs: Past
-daily,68
-2021-04-05 09:22:00,13XP,Geography
-2021-04-05 09:30:43,12XP,Verbs: Infinitive 1
-2021-04-05 21:39:19,12XP,Verbs: Past
-2021-04-05 21:43:53,12XP,Food 2
-2021-04-05 21:48:32,13XP,Feelings
-daily,62
-2021-04-06 08:57:02,13XP,Verbs: Past 2
-2021-04-06 09:04:37,12XP,Verbs: Infinitive 1
-2021-04-06 16:07:13,12XP,Abstract Objects 1
-2021-04-06 16:12:12,12XP,Adjectives 2
-2021-04-06 16:16:23,14XP,Verbs: Past
-daily,63
-2021-04-07 10:13:02,12XP,Food 2
-2021-04-07 10:19:47,12XP,Verbs: Infinitive 1
-2021-04-07 15:08:00,11XP,Verbs: Past 2
-2021-04-07 15:13:06,12XP,Abstract Objects 1
-2021-04-07 21:40:10,12XP,Feelings
-daily,59
-2021-04-08 09:29:52,11XP,Verbs: Past
-2021-04-08 09:37:17,12XP,Adjectives 2
-2021-04-08 21:34:25,14XP,Verbs: Past
-2021-04-08 21:40:47,12XP,Verbs: Infinitive 1
-2021-04-08 21:46:45,12XP,Verbs: Past 2
-daily,61
-2021-04-09 09:49:28,12XP,Feelings
-2021-04-09 09:55:56,12XP,Adjectives 2
-2021-04-09 19:27:50,12XP,Food 2
-2021-04-09 19:32:21,12XP,Abstract Objects 1
-2021-04-09 19:37:58,12XP,Verbs: Infinitive 1
-daily,60
-2021-04-10 12:39:28,14XP,Verbs: Past
-2021-04-10 12:43:48,14XP,Adjectives 2
-2021-04-10 12:48:58,13XP,Abstract Objects 1
-2021-04-10 19:06:30,15XP,Food 2
-2021-04-10 19:12:50,12XP,Feelings
-daily,68
-2021-04-11 10:22:24,13XP,Abstract Objects 1
-2021-04-11 10:25:57,14XP,Adjectives 2
-2021-04-11 16:25:57,12XP,Verbs: Past 2
-2021-04-11 16:37:28,12XP,Verbs: Past
-2021-04-11 16:44:04,12XP,Verbs: Infinitive 1
-daily,63
-2021-04-12 09:05:43,13XP,Abstract Objects 1
-2021-04-12 09:10:18,11XP,Verbs: Past 2
-daily,24
+2021-03-28 10:51:56,13,Verbs: Past
+2021-03-28 10:59:04,11,Verbs: Infinitive 1
+2021-03-28 17:41:44,11,Geography
+2021-03-28 17:45:36,12,Verbs: Past
+2021-03-28 21:17:24,12,Verbs: Infinitive 1
+2021-03-28,59
+2021-03-29 09:17:48,12,Geography
+2021-03-29 09:30:16,13,Verbs: Past
+2021-03-29 21:55:03,12,Verbs: Infinitive 1
+2021-03-29 21:59:40,12,Geography
+2021-03-29 22:04:30,12,Verbs: Past
+2021-03-29,61
+2021-03-30 09:58:54,14,Verbs: Infinitive 1
+2021-03-30 10:04:20,12,Geography
+2021-03-30 18:37:17,13,Verbs: Past
+2021-03-30 20:08:33,11,Geography
+2021-03-30 20:13:49,11,Verbs: Past
+2021-03-30,61
+2021-03-31 09:11:04,11,Verbs: Infinitive 1
+2021-03-31 09:16:58,15,Geography
+2021-03-31 12:41:53,11,Verbs: Past
+2021-03-31 21:19:46,11,Verbs: Infinitive 1
+2021-03-31 21:24:48,13,Geography
+2021-03-31,61
+2021-04-01 10:17:24,12,Verbs: Past 2
+2021-04-01 10:24:43,12,Food 2
+2021-04-01 19:02:47,13,Feelings
+2021-04-01 19:07:24,13,Geography
+2021-04-01 19:12:24,13,Verbs: Past
+2021-04-01,63
+2021-04-02 10:14:47,11,Feelings
+2021-04-02 10:20:52,11,Food 2
+2021-04-02 20:38:01,14,Verbs: Past 2
+2021-04-02 20:42:45,13,Verbs: Infinitive 1
+2021-04-02 20:48:00,12,Geography
+2021-04-02,61
+2021-04-03 11:19:10,15,Food 2
+2021-04-03 11:24:40,12,Feelings
+2021-04-03 16:35:06,14,Verbs: Past 2
+2021-04-03 16:41:38,12,Verbs: Past
+2021-04-03 20:56:14,11,Verbs: Infinitive 1
+2021-04-03,64
+2021-04-04 10:33:08,14,Geography
+2021-04-04 10:38:07,14,Food 2
+2021-04-04 20:26:18,12,Feelings
+2021-04-04 20:30:34,15,Verbs: Past 2
+2021-04-04 20:34:57,13,Verbs: Past
+2021-04-04,68
+2021-04-05 09:22:00,13,Geography
+2021-04-05 09:30:43,12,Verbs: Infinitive 1
+2021-04-05 21:39:19,12,Verbs: Past
+2021-04-05 21:43:53,12,Food 2
+2021-04-05 21:48:32,13,Feelings
+2021-04-05,62
+2021-04-06 08:57:02,13,Verbs: Past 2
+2021-04-06 09:04:37,12,Verbs: Infinitive 1
+2021-04-06 16:07:13,12,Abstract Objects 1
+2021-04-06 16:12:12,12,Adjectives 2
+2021-04-06 16:16:23,14,Verbs: Past
+2021-04-06,63
+2021-04-07 10:13:02,12,Food 2
+2021-04-07 10:19:47,12,Verbs: Infinitive 1
+2021-04-07 15:08:00,11,Verbs: Past 2
+2021-04-07 15:13:06,12,Abstract Objects 1
+2021-04-07 21:40:10,12,Feelings
+2021-04-07,59
+2021-04-08 09:29:52,11,Verbs: Past
+2021-04-08 09:37:17,12,Adjectives 2
+2021-04-08 21:34:25,14,Verbs: Past
+2021-04-08 21:40:47,12,Verbs: Infinitive 1
+2021-04-08 21:46:45,12,Verbs: Past 2
+2021-04-08,61
+2021-04-09 09:49:28,12,Feelings
+2021-04-09 09:55:56,12,Adjectives 2
+2021-04-09 19:27:50,12,Food 2
+2021-04-09 19:32:21,12,Abstract Objects 1
+2021-04-09 19:37:58,12,Verbs: Infinitive 1
+2021-04-09,60
+2021-04-10 12:39:28,14,Verbs: Past
+2021-04-10 12:43:48,14,Adjectives 2
+2021-04-10 12:48:58,13,Abstract Objects 1
+2021-04-10 19:06:30,15,Food 2
+2021-04-10 19:12:50,12,Feelings
+2021-04-10,68
+2021-04-11 10:22:24,13,Abstract Objects 1
+2021-04-11 10:25:57,14,Adjectives 2
+2021-04-11 16:25:57,12,Verbs: Past 2
+2021-04-11 16:37:28,12,Verbs: Past
+2021-04-11 16:44:04,12,Verbs: Infinitive 1
+2021-04-11,63
